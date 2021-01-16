@@ -2,7 +2,7 @@
 
 ## Description
 This app allows the audience to add expenses and deposits to their budget with or without a connection. When entering transactions offline, they should populate the total when brough back online.
-- [DeployApp](#Deploy App) https://secret-fjord-88220.herokuapp.com/
+- [DeployApp](https://secret-fjord-88220.herokuapp.com/)
 
 ## Table of Contents
 - [Description](#description)

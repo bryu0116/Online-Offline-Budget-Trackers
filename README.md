@@ -2,6 +2,7 @@
 
 ## Description
 This app allows the audience to add expenses and deposits to their budget with or without a connection. When entering transactions offline, they should populate the total when brough back online.
+- [DeployApp](#Deploy App) https://secret-fjord-88220.herokuapp.com/
 
 ## Table of Contents
 - [Description](#description)
@@ -17,8 +18,8 @@ Node.JS, NPM (Express, Mongoose, Morgan) must be installed. Used Mongo database.
 Giving users a fast and easy way to track their money is important, but allowing them to access that information anytime is even more important. Having offline functionality is paramount to our applications success.
 
 ### App Screenshot
-<img src="views/workout01.png" alt="Fitness Tracker Main Page">
-<img src="views/workout02.png" alt="Fitness Tracker Dashboard">
+<img src="views/budget tracker 01.png" alt="Budget Tracker Screenshot">
+
 
 
 ## License
